@@ -93,14 +93,14 @@ function draw(){
          //switch(){
             //case 1: thunder.addImage();
              //break;
-             // case 2: thunder.addImage();
-            // break; 
-             // case 3: thunder.addImage();
-            // break;
+              //case 2: thunder.addImage();
+             //break; 
+              //case 3: thunder.addImage();
+             //break;
               //case 4: thunder.addImage();
-            //break;
-            // default: break;
-          //}
+             //break;
+             //default: break;
+         // }
              
          
 
