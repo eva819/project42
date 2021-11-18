@@ -90,7 +90,7 @@ function draw(){
              default: break;
          }  
         
-          switch(){
+         switch(){
             case 1: thunder.addImage();
              break;
               case 2: thunder.addImage();
